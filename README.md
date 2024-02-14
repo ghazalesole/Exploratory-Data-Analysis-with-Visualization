@@ -3,7 +3,7 @@ This repository showcases the analysis of housing data of Calgary in Alberta thr
 
 
 
-# Required Python Libraries
+## Required Python Libraries
 1. Pandas
 2. NumPy
 3. Matplotlib
